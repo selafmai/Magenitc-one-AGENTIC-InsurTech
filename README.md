@@ -1,10 +1,3 @@
-# Magenitc-one-AGENTIC-InsurTech
-Mahentic-one AGENTIC InsurTech workflow system
-
-![magentic-one](https://github.com/user-attachments/assets/16295fb5-bb61-4ab8-9192-389f6370f18a) 
-
-
-
 # AGENTIC InsurTech Aplikacija
 
 ## Opis
@@ -24,10 +17,6 @@ AGENTIC InsurTech je napredna zavarovalniška aplikacija, ki uporablja večagent
 - `gradio`: Uporabniški vmesnik
 - `streamlit`: Alternativni uporabniški vmesnik
 - `playwright`: Spletno brskanje in zajem podatkov
-
-  ![magentic-one struktura map](https://github.com/user-attachments/assets/ae9bff79-3427-451c-bd89-f3612a2ad420)
-  
-
 
 ### API integracije
 - Together.ai API: LLM model za procesiranje naravnega jezika
@@ -119,6 +108,7 @@ python src/run_app.py --interface streamlit
 
 ## Licenca
 MIT License
+
 
 
 

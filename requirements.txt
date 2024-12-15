@@ -1,0 +1,9 @@
+autogen-core
+autogen-magentic-one
+autogen-ext
+python-dotenv
+playwright
+pillow
+requests
+stripe
+google-api-python-client
