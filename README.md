@@ -1,5 +1,8 @@
 # AGENTIC InsurTech Aplikacija
 
+![magentic-one 0](https://github.com/user-attachments/assets/0501a6ce-a5d9-4a45-9401-f490f90fc4d8)
+
+
 ## Opis
 AGENTIC InsurTech je napredna zavarovalniška aplikacija, ki uporablja večagentni sistem MagenticOne za avtomatizacijo zavarovalniških procesov. Aplikacija omogoča oceno tveganja na podlagi slik, izračun premij in avtomatsko obdelavo zahtevkov.
 
@@ -22,6 +25,10 @@ AGENTIC InsurTech je napredna zavarovalniška aplikacija, ki uporablja večagent
 - Together.ai API: LLM model za procesiranje naravnega jezika
 - Stripe API: Procesiranje plačil
 - Weather API: Vremenska napoved za parametrično zavarovanje
+
+![magentic-one struktura map](https://github.com/user-attachments/assets/9ad6582f-bbd5-4a2f-aaec-3a08fb541459)
+
+
 
 ## Struktura projekta 
 Magnetic-one/
